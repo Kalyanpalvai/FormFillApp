@@ -14,13 +14,13 @@
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
     <label for="fathername"><b>FatherName</b></label>
-    <input type="text" placeholder="Enter fathername" name="fathername" id="fathername" required>
+    <input type="text" placeholder="Enter Fathername" name="fathername" id="fathername" required>
     <br>
     <label for="mother"><b>MotherName</b></label>
     <input type="text" placeholder="Enter Mothername" name="mother" id="mother" required>
     <br>
     <label for="mobile"><b>Mobile Number</b></label>
-    <input type="tel" placeholder="Enter mobile number" name="mobile" id="tel" required>
+    <input type="tel" placeholder="Enter Mobile number" name="mobile" id="tel" required>
     <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
