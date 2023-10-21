@@ -13,6 +13,9 @@
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
+    <label for="pan"><b>PAN</b></label>
+    <input type="text" placeholder="Enter pan" name="pan" id="pan" required>
+    <br>
     <label for="fathername"><b>FatherName</b></label>
     <input type="text" placeholder="Enter Fathername" name="fathername" id="fathername" required>
     <br>
