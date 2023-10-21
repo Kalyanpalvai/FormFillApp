@@ -1,5 +1,6 @@
 <form action="action_page.php">
   <div class="container">
+    <form style= "background-color:#FCFF33">
     <h1>Register</h1>
     <p>Please fill in this form by entering all the fields to create an account.</p>
     <hr>
