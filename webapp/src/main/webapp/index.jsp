@@ -26,6 +26,9 @@
     <label for="mobile"><b>Mobile Number</b></label>
     <input type="tel" placeholder="Enter Mobile number" name="mobile" id="tel" required>
     <br>
+    <label for="addr"><b>Address</b></label>
+    <input type="text" placeholder="Enter Address" name="addr" id="addr" required>
+    <br>
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
